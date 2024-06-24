@@ -1,4 +1,4 @@
-
+-- celebal assignment 5
 CREATE TABLE SubjectAllotments (
     StudentId VARCHAR(20),
     SubjectId VARCHAR(20),
